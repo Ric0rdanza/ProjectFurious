@@ -1,2 +1,3 @@
 # ProjectFurious
 一个及其简陋的微博热搜播报程序
+python脚本要和exe文件放在同一个目录下
